@@ -3,7 +3,7 @@ name: Node.js CI Pipeline
 on:
   push:
     branches:
-      - master
+      - SCRUM-5-Moksh-Integrate-NPM-Project-with-DevOps-Integration
 
 jobs:
   build:
